@@ -1,7 +1,7 @@
-#Joint extraction of entities and relations-pytorch+CNNs+LSTM
-
-
-    The original paper can be found at https://arxiv.org/abs/1707.05928
+# Joint extraction of entities and relations-pytorch+CNNs+LSTM
+This project is based on [Deep Active Learning for Named Entity Recognition](https://arxiv.org/abs/1707.05928)  
+and [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme](https://arxiv.org/abs/1707.05928)
+    
 
 # Dataset
 
@@ -33,5 +33,3 @@
     python word2vec.py
     python data
     python train.py
-    
-    
