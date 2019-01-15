@@ -33,3 +33,9 @@ and [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme]
     python word2vec.py
     python data
     python train.py
+
+# others:
+    
+    i upload data and model to google drive:https://drive.google.com/drive/folders/1WWKkvwtbg5fLmh3CnjPC2luxyHooyvmR?usp=sharing
+
+
