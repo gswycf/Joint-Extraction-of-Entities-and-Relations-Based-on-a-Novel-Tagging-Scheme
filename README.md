@@ -1,6 +1,6 @@
 # Joint extraction of entities and relations-pytorch+CNNs+LSTM
 This project is based on [Deep Active Learning for Named Entity Recognition](https://arxiv.org/abs/1707.05928)  
-and [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme](https://arxiv.org/abs/1707.05928)
+and [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme](https://arxiv.org/abs/1706.05075)
     
 
 # Dataset
