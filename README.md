@@ -10,9 +10,9 @@ and [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme]
     
 # Requirements
 
-    1)python
-    2)pytorch
-    3)numpy
+    1)python             3.6
+    2)pytorch            1.0.0
+    3)numpy              1.14.5
     4)pickle
 
 # file
